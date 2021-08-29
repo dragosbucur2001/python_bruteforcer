@@ -1,0 +1,11 @@
+{
+    "url": "",
+    "cookies": {
+        "session": "XnhgU1XlGKfdssfsgsdFDSFS"
+    },
+    "usernames_path": "usernames.txt",
+    "passwords_path": "passwords.txt",
+    "headers": {
+        "Content-Type": "application/x-www-form-urlencoded"
+    }
+}
